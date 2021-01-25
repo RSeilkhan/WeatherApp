@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city">City:</string>
+    <string name="time">Time:</string>
+    <string name="open_weather_maps_app_id">32ed9f902544e06c9b138544d9cd7862</string>
+    <string name="temperature">Temperature:</string>
+    <string name="description">Description:</string>
+    <string name="feels_like">Feels like</string>
+    <string name="image_transition">weather_image_transition</string>
+
+</resources>
